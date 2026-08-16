@@ -5,11 +5,13 @@ Projeto feito para estudo do curso do Macoratti [Clean Architecture Essencial - 
 
 # Estrutura do projeto
 O projeto segue o padrão proposto no curso que é implementar uma **Arquitetura em Camadas** deixando o menor nível possível de acoplamento entre as camadas. Sendo escolhido o seguinte padrão :
+
 	- Domain 
 	- Data
 	- Application
 	- IoC
 	- WebUI/API  
+	
 | Camada | Dependências |
 |--|--|
 | Domain |—|
